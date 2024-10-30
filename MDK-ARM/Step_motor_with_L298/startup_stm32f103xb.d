@@ -1,0 +1,1 @@
+step_motor_with_l298\startup_stm32f103xb.o: startup_stm32f103xb.s
